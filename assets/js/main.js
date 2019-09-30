@@ -397,5 +397,4 @@
 					$window.on('load', function() {
 						$main._show(location.hash.substr(1), true);
 					});
-
 })(jQuery);
